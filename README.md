@@ -8,9 +8,12 @@ no caso aqui do GitHub ela roda no navegado senquido as instruçoes abaixo.
 
 *****Como configurar*******
 Ter instalado
- Node.JS: que é uma plataforma de para criação de projetos Web Disponivel me https://nodejs.org/en/
- No Node.js vem integrado com Angular.JS que é uma framework front-end do qual o Ionic de apoia e que permite que se crie paginas mais sofisticadas
- NPM: que é uma gerenciador de pacotes JavaScript. Abrir a tela de comando do do Node.js e execultar o comando npm isntall para que no projeto seja criado a pasta node_modules que estão as dependencias do projeto
+ Node.JS: que é uma plataforma de para criação de projetos Web Disponivel me https://nodejs.org/en/ .
+ 
+ No Node.js vem integrado com Angular.JS que é uma framework front-end do qual o Ionic de apoia e que permite que se crie paginas mais sofisticadas.
+ 
+ NPM: que é uma gerenciador de pacotes JavaScript. Abrir a tela de comando do do Node.js e execultar o comando npm isntall para que no projeto seja criado a pasta node_modules que estão as dependencias do projeto.
+ 
  Ionic: que é a extesão para desenvolver uma aplicação hibrida. Abrir a teala de comando do do Node e execultar o comando npm install -g cordova ionic.
  
  Abrindo a aplicação:
